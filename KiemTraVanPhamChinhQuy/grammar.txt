@@ -1,0 +1,8 @@
+S->abC
+C->deA
+C->adB
+C->dd
+B->bbdC
+B->ae
+---
+abadbbdadaedd
