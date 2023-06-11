@@ -1,5 +1,5 @@
     #1. Đọc dữ liệu từ file
-with open('DoThi2_NFA.txt','r') as file:
+with open('DoThi_NFA.txt','r') as file:
     DuLieu = file.readlines()
 # a. Lưu lại số lượng đỉnh và số lượng cung
 soDinh, soCung = map(int, DuLieu[0].split())
